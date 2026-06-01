@@ -1,0 +1,24 @@
+{
+  "name": "Poke Voice V2",
+  "short_name": "Poke Voice",
+  "description": "Mobile-first voice interface for Poke with browser-native speech recognition and synthesis.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#b875ff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
